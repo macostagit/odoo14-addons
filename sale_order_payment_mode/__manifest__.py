@@ -9,7 +9,7 @@
         Modulo de prueba para el curso de Odoo 14
 
     """,
-    'author': "Juan Carlos Montoya",
+    'author': "Miguel Acosta",
     'website': "https://www.agenciadigitaltresplatos.com",
 
     'category': 'Tools',
